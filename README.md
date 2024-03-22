@@ -1,5 +1,14 @@
 # ComplegidadMergeyQuick
 
+- Integrantes Grupó:
+- Maikol Vergara
+- Victor Peñaranda
+- Juliana Castro 
+- Valentina Leon
+- Lukas Rodriguez
+- Juan Perez
+- Juan Barajas
+
 Graficos Resultados 3000 Registros:
 ![image](https://github.com/maikolUniversidad/ComplegidadMergeyQuick/assets/112012566/c5c68ac9-b7af-4d24-a342-fa10fb47583b)
 
