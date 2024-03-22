@@ -1,4 +1,10 @@
 # ComplegidadMergeyQuick
+
+Graficos Resultados 3000 Registros:
+![image](https://github.com/maikolUniversidad/ComplegidadMergeyQuick/assets/112012566/c5c68ac9-b7af-4d24-a342-fa10fb47583b)
+
+
+
 Los coeficientes polinómicos que has proporcionado son el resultado de ajustar un polinomio a los datos recogidos de los pasos totales para los algoritmos Merge Sort y Quick Sort sobre listas aleatorias de diferentes tamaños, en este caso hasta un tamaño máximo de 3000.
 
 Para Merge Sort (Aleatoria), los coeficientes son:
